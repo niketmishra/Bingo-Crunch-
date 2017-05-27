@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bingo</string>
+    <string name="admob_interstitial_id">ca-app-pub-7700781158729760/9406255934</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7700781158729760/6092862739/</string>
+</resources>
